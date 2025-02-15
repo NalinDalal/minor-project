@@ -1,0 +1,5 @@
+/node_modules
+/dist
+# Ignore compiled JavaScript files (if not needed)
+/*.js
+/github

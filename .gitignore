@@ -1,0 +1,6 @@
+./node_modules
+./github
+./4-json-parser/node_modules/
+./4-json-parser/dist/
+*/node_modules/
+*/dist/
