@@ -1,4 +1,4 @@
-![system-design](system-design.png)
+![system-design](/img/sytem-design.png)
 
 crawler is done for now, now we need to build what a ocr:
 
@@ -49,3 +49,18 @@ what is done->
 4. made a parser to parse json data{folder: 4-json-parser}
 5. selenium automation crawler;may skip it{folder:5-selenium}
 6. done with photo crawler and url-extraction{folder:6-pic-crawl-link-extract}
+
+what more can we do:
+need to have a automation to inspect into a webpage,go to network tab, open all
+html, js request, save them into one file, like whole ts in one file, whole js
+in one file like that
+
+
+what extra can be implemented:
+1. open network tabs and get all ts, js, json, Img, media,payloads their api,
+   url etc
+what to add next: 
+now send this all to a gpt and it will be trained on data{previously crawled
+with same info}, now it will check if this data which user created is genuine or
+not
+then it tells it site is okay or not
