@@ -4,3 +4,6 @@
 ./4-json-parser/dist/
 */node_modules/
 */dist/
+*/venv/
+*/myenv/
+
